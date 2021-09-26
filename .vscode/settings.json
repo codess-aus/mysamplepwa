@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/823c4d3b-974f-43f1-8e5c-bc61042bffb8/resourceGroups/ewoksamplepwa/providers/Microsoft.Web/sites/ewoksamplepwa",
+    "appService.deploySubpath": "."
+}
